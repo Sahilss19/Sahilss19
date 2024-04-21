@@ -5,11 +5,11 @@
 
 <img align="right" width=400px src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
-- 🌱 I’m currently learning **Full Stack Frontend Courses**
+- 🌱 I’m currently learning **Full Stack Devolpment Courses**
 
 - 📫 How to reach me **Sahilkulria27@gmail.com**
 
-- ⚡ Fun fact **i can grind hard as i can to achive something**
+- ⚡ Fun fact **i can grind hard as i can to achieve something**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
