@@ -1,7 +1,7 @@
 
 
   <h1 align="center">Hi 👋, I'm Sahil Kulria</h1>
-<h3 align="center">Hey!! I am Sahil Kulria, First-year Student at 📍 Chandigarh University 🏫 pursuing Masters In Computer Applications 🔌. I enjoy writing songs 📚 and solving problems 📝 . We'll be talking about productivity ⏳, work life balance, career and more.</h3>
+<h3 align="center">Hey!! I am Sahil Kulria,🏫 pursuing Masters In Computer Applications From 📍 Chandigarh University  🔌. I enjoy writing songs 📚 and solving problems 📝 . We'll be talking about productivity ⏳, work life balance, career and more.</h3>
 
 <img align="right" width=400px src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
